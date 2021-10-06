@@ -1,0 +1,149 @@
+/* WHOLE PAGE */
+body {
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+a:visited {
+    color: gray;
+}
+
+/* HEADINGS */
+h1 {
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 25px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: -15px;
+    text-align: center;
+}
+
+aside h3 {
+    margin: -5px;
+}
+
+.placesBeen__countries h3 {
+    margin-bottom: -2px;
+}
+
+h4 {
+    margin-bottom: -10px;
+}
+
+/* IMAGES */
+.mainimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+
+.fishpic {
+    width: 300px;
+    height: 200px;
+    margin-top: 25px;
+}
+
+.placesBeen__countries img {
+    border-radius: 100%;
+    border: white solid 2px;
+    box-shadow: 10px 10px 100px black;
+    width: 200px;
+    height: 200px;
+}
+
+/* NAVIGATION */
+.nav__menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.nav__background {
+    background-color:coral;
+    padding: 15px;
+}
+
+.nav__menuitem {
+    padding-right: 10px;
+}
+
+/* MAIN CONTENT */
+.fishblurbs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.fish__list {
+    list-style-type: none;
+    padding-left: -20px;
+}
+
+.test {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+aside {
+    background-color: coral;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    padding: 15px;
+    width: 200px;
+}
+
+.fish {
+    flex-basis: 30%;
+    /* flex-grow: 1; */
+}
+
+.quotes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.quotes__words {
+    background-color: white;
+    padding: 10px;
+    width: 200px;
+}
+
+.placesBeen {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.placesBeen__countries li {
+    list-style-type: none;
+}
+
+/* FOOTER */
+footer {
+    padding-left: 10px;
+    margin: 50px;
+    font-size: 12px;
+}

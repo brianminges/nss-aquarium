@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fish I own</title>
+        <link rel='stylesheet' href='../styles/main.css'>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <div class="nav__background">
+                    <ul class="nav__menu">
+                        <li class="nav__menuitem"><a href='../index.html'>Home </a></li>
+                        <li class="nav__menuitem"><a href='placesIveBeen.html'>Where I've been</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+       <main>
+        <div class="test">
+        <section>    
+            <h2>Fish I own</h2>
+                <div class='fishblurbs'>
+                    <!-- Fish 1 -->
+                    <div class='fish'>
+                        <img class='fishpic' src='https://images.unsplash.com/photo-1524704654690-b56c05c78a00?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGZpc2h8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80' Alt='A pink and blue fish swims in front of a black background'>
+                        <ul class="fish__list">
+                            <li><strong>"BOB"</strong></li>
+                            <li><strong>Type:</strong> Angelfish</li>
+                            <li><strong>Length:</strong> 3 inches</li>
+                            <li><strong>Diet:</strong> Small children</li>
+                            <li><strong>Harvested:</strong> Child's fishtank</li>
+                        </ul> 
+                    </div> <!-- /fish1-->
+
+                    <!-- Fish 2 -->
+                    <div class='fish'>
+                        <img class='fishpic' src='https://images.unsplash.com/photo-1535591273668-578e31182c4f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjM2NTI5fQ' Alt='An orange fish with thick white stripes'>
+                        <ul class="fish__list">
+                            <li><strong>"TIGER"</strong></li>
+                            <li><strong>Type:</strong> Pirahna</li>
+                            <li><strong>Length:</strong> 3 inches</li>
+                            <li><strong>Diet:</strong> Anything it wants</li>
+                            <li><strong>Harvested:</strong> The jungle</li>
+                        </ul> 
+                    </div> <!-- /fish2-->
+
+                    <!-- Fish 3 -->
+                    <div class='fish'>
+                        <img class='fishpic' src='https://images.unsplash.com/photo-1516408388733-2f8364f2e00b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dHJvcGljYWwlMjBmaXNofGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80' Alt='A Dora-looking fish swims in front of a black background'>
+                        <ul class="fish__list">
+                            <li><strong>"DORA"</strong></li>
+                            <li><strong>Type:</strong> Cartoon</li>
+                            <li><strong>Length:</strong> 3 inches</li>
+                            <li><strong>Diet:</strong> Fish flakes</li>
+                            <li><strong>Harvested:</strong> Nemo's pond</li>
+                        </ul> 
+                    </div> <!-- /fish3-->
+
+                    <!-- Fish 4 -->
+                    <div class='fish'>
+                        <img class='fishpic' src='https://i5.walmartimages.com/asr/6d78d41f-e5a1-4e04-b8b8-1a4f55a38546_1.aff142c489f148b71ebfb37a2f42e5e0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff' Alt='A spiky pink and blue fish swims in front of a black background'>
+                        <ul class="fish__list">
+                            <li><strong>"SPIKE"</strong></li>
+                            <li><strong>Type:</strong> Spiky something</li>
+                            <li><strong>Length:</strong> 3 inches</li>
+                            <li><strong>Diet:</strong> Vegan</li>
+                            <li><strong>Harvested:</strong> Juice bar</li>
+                        </ul> 
+                    </div> <!-- /fish1-->
+
+                    <!-- Fish 5 -->
+                    <div class='fish'>
+                        <img class='fishpic' src='https://images.unsplash.com/photo-1564765450132-0b78dd479ebf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80' Alt='A blue and gold fish swims'>
+                        <ul class="fish__list">
+                            <li><strong>"BOB"</strong></li>
+                            <li><strong>Type:</strong> Goldfish</li>
+                            <li><strong>Length:</strong> 3 inches</li>
+                            <li><strong>Diet:</strong> Small children</li>
+                            <li><strong>Harvested:</strong> Child's fishtank</li>
+                        </ul> 
+                    </div> <!-- /fish5-->
+
+                    <!-- Fish 6 -->
+                    <div class='fish'>
+                        <img class='fishpic' src='https://www.thesprucepets.com/thmb/FOLwbR72UrUpF9sZ45RYKzgO8dg=/3072x2034/filters:fill(auto,1)/yellow-tang-fish-508304367-5c3d2790c9e77c000117dcf2.jpg' Alt='A yellow fish swims in front of coral'>
+                        <ul  class="fish__list">
+                            <li><strong>"GOLDILOCKS"</strong></li>
+                            <li><strong>Type:</strong> Yellow tang</li>
+                            <li><strong>Length:</strong> 3 inches</li>
+                            <li><strong>Diet:</strong> Porridge</li>
+                            <li><strong>Harvested:</strong> The woods</li>
+                        </ul> 
+                    </div> <!-- /fish6-->                             
+                </div> <!-- /fishblurbs -->
+            </section>
+            <aside>
+                <h3>TANK TIPS</h3>
+                <h4>Cleanliness</h4>
+                <p>Snowcrab goatfish starfish, banded eel on neon goby manta ray, peppered moray non bonnethead. Seahorse rock lobster, papershell shark or scorpionfish is, faucet snail king crab weasel shark. </p>
+                <h4>Salinity</h4>
+                <p>Snowcrab goatfish starfish, banded eel on neon goby manta ray, peppered moray non bonnethead. Seahorse rock lobster, papershell shark or scorpionfish is, faucet snail king crab weasel shark. </p>
+                <h4>Temperature</h4>
+                <p>Snowcrab goatfish starfish, banded eel on neon goby manta ray, peppered moray non bonnethead. Seahorse rock lobster, papershell. </p>
+            </aside>
+        </div>
+        </main>
+        <footer>
+            <p>&copy 2021 Brian's Wonderful Webpages</p>    
+        </footer>
+
+    </body>
+</html>

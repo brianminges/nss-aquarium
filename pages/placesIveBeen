@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Places I've been</title>
+        <link charset='UTF-8'>
+        <link rel='stylesheet' href='../styles/main.css'>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <div class="nav__background">
+                    <ul class="nav__menu">
+                        <li class="nav__menuitem"><a href='../index.html'>Home </a></li>
+                        <li class="nav__menuitem"><a href='fishIOwn.html'>Fish I own</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <h2>Quotes about fishing</h2>
+            <section class='quotes'>
+                <blockquote class='quotes__words'>Many men go fishing all of their lives without knowing that it is not fish they are after.<cite> - Henry David Thoreau</cite></blockquote> 
+                <blockquote class='quotes__words'>I like fishing. not actual fishing. I like the peace and quiet of being at sea<cite> - Rafael Nadal</cite></blockquote> 
+                <blockquote class='quotes__words'>If fishing is a religion, fly fishing is high church <cite> - Tom Brokaw</cite> </blockquote> 
+                <blockquote class='quotes__words'>The fun of fishing is catching 'em, not killing 'em. <cite> - Norman Schwarzkopf</cite> </blockquote> 
+                <blockquote class='quotes__words'>A bad day of fishing is still better than a godo day at the office. <cite>Anonymous</cite></blockquote>
+            </section>
+
+            <h2>Places I've been</h2>
+            <section class='placesBeen'>
+                <article class='placesBeen__countries'>
+                    <!-- COUNTRY 1 -->
+                    <ul>
+                        <img src='https://www.planetware.com/wpimages/2020/01/aruba-in-pictures-beautiful-places-to-photograph-eagle-beach.jpg' Alt='A gnarly tree grows on a beach in Aruba'>
+                        <h3>Aruba</h3>
+                        <li>Water temperature: 75 degrees</li>
+                        <li>Would go back? Yes</lis>
+                    </ul>
+                </article>
+
+                <!-- COUNTRY 2 -->
+                <article class='placesBeen__countries'>
+                    <ul>
+                        <img src='https://www.sandals.com/blog/content/images/2020/01/Sandals-White-House-Jamaica-Over-Water-Bungalows.jpg' Alt='Huts aligned in the shape of a heart in the shallow waters at the Sandals resort'>
+                        <h3>Jamaica</h3>
+                        <li>Water temperature: 73 degrees</li>
+                        <li>Would go back? Yes</lis>
+                    </ul>
+                </article>
+
+                <!-- COUNTRY 3 -->
+                <article class='placesBeen__countries'>
+                    <ul>
+                        <img src='https://www.planetware.com/wpimages/2019/12/bermuda-in-pictures-beautiful-places-to-photograph-horseshoe-bay-beach.jpg' Alt='A large rock outcropping on a deserted beach'>
+                        <h3>Bermuda</h3>
+                        <li>Water temperature: 68 degrees</li>
+                        <li>Would go back? No</lis>
+                    </ul>
+                </article>
+
+                <!-- COUNTRY 4 -->
+                <article class='placesBeen__countries'>
+                    <ul>
+                        <img src='https://cdn.travelpulse.com/images/abaaedf4-a957-df11-b491-006073e71405/25b80fab-d2f1-4ff0-b531-9f266118cd28/630x355.jpg' Alt='Palm trees on a deserted beach'>
+                        <h3>Bahamas</h3>
+                        <li>Water temperature: 80 degrees</li>
+                        <li>Would go back? Yes</lis>
+                    </ul>
+                </article>
+            </section>
+        </main>
+        <footer>
+            <p>&copy 2021 Brian's Wonderful Webpages</p>    
+        </footer>
+    </body>
+</html>
